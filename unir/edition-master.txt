@@ -2,4 +2,4 @@ Primer cambio del archivo, dsde la rama mastar.
 
 
 Segundo cambio al fichero. 
-Prueba de commit para ver si hay cruce de informacion entre repositorio local remoto. 
+Prueba de commit para ver si hay cruce de informacion entre repositorio local remoto. cv 
